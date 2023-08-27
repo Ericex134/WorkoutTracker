@@ -1,0 +1,16 @@
+{
+    "WorkoutLog": [{
+        "date": {
+            "Month": 1,
+            "Year": 2020,
+            "Day": 1
+        },
+        "Workout": [{
+            "reps": 1,
+            "sets": 1,
+            "name": "bench",
+            "weight": 5
+        }]
+    }],
+    "WeightLog": []
+}

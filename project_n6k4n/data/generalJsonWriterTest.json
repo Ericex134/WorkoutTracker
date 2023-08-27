@@ -1,0 +1,38 @@
+{
+    "WorkoutLog": [
+        {
+            "date": {
+                "Month": 4,
+                "Year": 2023,
+                "Day": 15
+            },
+            "Workout": [{
+                "reps": 6,
+                "sets": 4,
+                "name": "Bench",
+                "weight": 190
+            }]
+        },
+        {
+            "date": {
+                "Month": 5,
+                "Year": 2023,
+                "Day": 14
+            },
+            "Workout": [{
+                "reps": 5,
+                "sets": 2,
+                "name": "pull",
+                "weight": 170
+            }]
+        }
+    ],
+    "WeightLog": [{
+        "Weight": 190,
+        "Date": {
+            "Month": 3,
+            "Year": 2023,
+            "Day": 4
+        }
+    }]
+}
